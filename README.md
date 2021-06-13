@@ -1,7 +1,5 @@
 # humsithon
-بوت تليجرام لحماية المجموعات
-```
-pip3 install humsithon
-```
+__<div dir='rtl'>سورس حمصيثون لحماية مجموعات التليجرام</div>__
 
-[قناتنا على التليجرام](https://t.me/api_tele)
+**<div dir='rtl'>لتنصيب المكتبة :</div>**
+```pip3 install humsithon```
